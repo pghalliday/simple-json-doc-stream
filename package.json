@@ -1,0 +1,25 @@
+{
+  "name": "simple-json-doc-stream",
+  "version": "1.0.0",
+  "description": "Parses streams of JSON documents line by line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pghalliday/simple-json-doc-stream.git"
+  },
+  "keywords": [
+    "JSON",
+    "parse",
+    "stream",
+    "document"
+  ],
+  "author": "Peter Halliday <pghalliday@gmail.com> (https://pghalliday.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pghalliday/simple-json-doc-stream/issues"
+  },
+  "homepage": "https://github.com/pghalliday/simple-json-doc-stream#readme"
+}
